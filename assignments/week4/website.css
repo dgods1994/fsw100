@@ -1,0 +1,161 @@
+body, html {
+    background-color: rgb(10, 10, 10);
+}
+#nav-one {
+    position: fixed;
+    text-decoration: underline;
+    text-decoration-color: whitesmoke;
+    top: 0;
+    height: 10px;
+    font-size: 20px;
+    font-family: 'megrim', cursive;
+    margin: auto;
+    color: whitesmoke;
+
+}
+#nav-two {
+    position: fixed;
+    text-decoration: underline;
+    text-decoration-color: whitesmoke;
+    top: 0;
+    height: 10px;
+    font-size: 20px;
+    font-family: 'megrim', cursive;
+    margin: auto;
+    color: whitesmoke;
+    right: 10px;
+}
+h1 {
+    border: outset;
+    border-color: tomato;
+    border-width: 125px;
+    padding-right: 2px;
+    padding-left: 2px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+h1 {
+    text-align: center;
+    font-size: 30px;
+    font-family: 'megrim', cursive;
+    color: tomato;
+}
+.images img {
+    position: relative;
+    display: inline-block;
+    left: 0;
+    margin-left: 25px;
+}
+.img-1 {
+    height: 300px;
+    width: 400px;
+    margin-left: 0%;
+}
+.img-2 {
+    height: 300px;
+    width: 500px;
+    margin-right: 25px;
+}
+.img-3 {
+    height: 300px;
+    width: 280px;
+    margin-right: 0%;
+}
+.belief p {
+    font-family: 'megrim', cursive;
+    color: tomato;
+    font-size: 20px;
+    text-align: center;
+}
+.imagine {
+    font-family: 'megrim', cursive;
+    color: tomato;
+    font-size: 25px;
+    text-align: center;
+}
+.enter-to-win h2 {
+    font-family: 'megrim', cursive;
+    color: orangered;
+    font-size: 30px;
+    text-align: center;
+}
+.enter-to-win h3 {
+    font-family: 'megrim', cursive;
+    color: orangered;
+    font-size: 25px;
+    text-align: center;
+}
+.form {
+    display: inline;
+    text-align: center;
+    font-family: 'megrim', cursive;
+    color: tomato;
+}
+form, input {
+    text-align: center;
+    color: tomato;
+}
+.list {
+    color: orangered;
+    font-family: 'megrim', cursive;
+}
+.list p {
+    color: orangered;
+    font-family: 'megrim', cursive;
+}
+.about-the-house {
+    color: orangered;
+}
+#foot-nav {
+    color:  white;
+    font-family: 'megrim', cursive;
+    text-align: center;
+    text-decoration: underline;position: relative;
+}
+.house {
+    width: 850px;
+    height: 700px;
+    position: relative;
+    left: 420px;
+    top: -140px;
+    
+}
+.table {
+    border-color: orangered;
+    border-style: solid;
+    color: orangered;
+    position: relative;
+    top: -700px;
+}
+.table, th, td {
+    border: solid orangered;
+    color: orangered;
+}
+.div-out {
+    font-size: 20px;
+    font-family: "megrim", cursive;
+    text-align: left;
+    color: tomato;
+    position: relative;
+    top: -550px;
+}
+.bottom {
+    color: tomato;
+    text-align: center;
+    font-size: 55px;
+    font-family: 'megrim', cursive;
+    border-color: orangered;
+    border-style: double;
+    position: relative;
+    top: -400px;
+}
+.number {
+    font-family: 'megrim', cursive;
+    font-size: 20px;
+    text-align: left;
+    color: orangered;
+    position: relative;
+    top: 450px;
+}
